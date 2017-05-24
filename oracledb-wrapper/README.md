@@ -5,6 +5,7 @@ npm install
 what is next:
 1. create common lib for MySQL, PostGresql
 2. NoSQL wrapper.
+3. More testing.
 
 ************
 Cloned and updated.
